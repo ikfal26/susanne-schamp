@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schamp;Susanne;;;
+FN:Susanne Schamp
+TITEL:Dipl.Ing. Architektin BDA Stadtplanerin DASL
+ORG:Schamp & Partner Architekten Stadtplaner PartGmbB
+ADR;TYPE =work:;;Konrad-Adenauer-Allee 10;Dortmund;;44263;Germany
+TEL;TYPE=work,voice:+4923128662611
+TEL;TYPE=cell:+491739154815
+EMAIL:schamp@schamp-partner.de
+URL:https://www.schamp-partner.de/
+END:VCARD
